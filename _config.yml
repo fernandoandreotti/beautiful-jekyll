@@ -17,7 +17,7 @@ description: Personal page
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
   Publications: "pubs"
   Research:
     - Fetal ECG: "fetalecg"
