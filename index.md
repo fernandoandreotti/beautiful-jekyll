@@ -7,7 +7,10 @@ use-site-title: true
 
 ### Bio
 
-I am currently a Postdoctoral Research Assistant at the Computational Intelligence in BIomedical Monitoring (CIBIM) group at the Institute of Biomedical Engineering (IBME – University of Oxford, UK)). In 2017, I obtained doctoral title in Electrical Engineering at the Institute of Biomedical Engineering at Technische Universität Dresden (Dresden, Germany). My thesis focused on signal processing for the extraction of the non-invasive fetal ECG from abdominal electrodes and assessing fetal heart-rate variability and morphology for new diagnostics in prenatal medicine. In 2011, I received my Engineer’s degree in Control and Automation Engineering from the Universidade Federal de Minas Gerais (Belo Horizonte, Brazil). 
+Fernando Andreotti, Dr.-Ing., Eng.
+(Biomedical, Control and Automation Engineer)
+
+I am currently a Postdoctoral Research Assistant at the Computational Intelligence in BIomedical Monitoring (CIBIM) group at the Institute of Biomedical Engineering (IBME – University of Oxford, UK). In 2017, I obtained doctoral title in Electrical Engineering at the Institute of Biomedical Engineering at Technische Universität Dresden (Dresden, Germany). My thesis focused on signal processing for the extraction of the non-invasive fetal ECG from abdominal electrodes and assessing fetal heart-rate variability and morphology for new diagnostics in prenatal medicine. In 2011, I received my Engineer’s degree in Control and Automation Engineering from the Universidade Federal de Minas Gerais (Belo Horizonte, Brazil). 
  
  
 My research interests include (among others):
