@@ -17,9 +17,10 @@ description: Personal page
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "index"
+  Home: "index"
+  About Me: "aboutme"
   Publications: "pubs"
-  Research:
+  Projects:
     - Fetal ECG: "fetalecg"
     - Arrhythmia Detection: "challenge2017"
     - Sleep: "sleep"
@@ -31,7 +32,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /img/fernando.png
 
 # --- Background colour/image options --- #
 
@@ -52,9 +53,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+#navbar-img: "/img/bgimage.png"
+#footer-img: "/img/bgimage.png"
+#page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -77,7 +78,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  google: true
+  google: false
   linkedin: false
   googlescholar: false
 

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="65"
+   height="65"
+   viewBox="0 0 65.000001 65"
+   sodipodi:docname="heartbrain.svg"
+   inkscape:export-filename="/data/git/fernandoandreotti.github.io/img/heartbrain.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3345">
+      <rect
+         style="fill:#ff0000;fill-opacity:1"
+         id="rect3347"
+         width="41.424419"
+         height="97.951492"
+         x="-102.26653"
+         y="-11.500892" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3351">
+      <rect
+         style="fill:#ff0000;fill-opacity:1"
+         id="rect3353"
+         width="37.109375"
+         height="94.71521"
+         x="27.890263"
+         y="-17.757706" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3345-9">
+      <rect
+         style="fill:#ff0000;fill-opacity:1"
+         id="rect3347-1"
+         width="41.424419"
+         height="97.951492"
+         x="-102.26653"
+         y="-11.500892" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3351-2">
+      <rect
+         style="fill:#ff0000;fill-opacity:1"
+         id="rect3353-7"
+         width="37.109375"
+         height="94.71521"
+         x="27.890263"
+         y="-17.757706" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="4.6349474"
+     inkscape:cx="43.820122"
+     inkscape:cy="6.0954435"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="62.999637,95.146711"
+       orientation="0,1"
+       id="guide3355" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000"
+     d="m 24.626718,62.39195 c 1.0827,-1.08274 1.5,-9.7865 1.5,-31.28923 0,-33.19841 0.2284,-32.39143 -8.5504,-30.20999997 -3.3861,0.84142997 -4.845,2.04120997 -5.7994,4.76942997 -0.9561,2.73315 -0.8843,3.77567 0.2873,4.16667 3.0153,1.00634 1.5198,3.88335 -2.7513999,5.29298 -3.6486,1.20412 -4.709,2.47951 -6.875,8.26884 -3.1978,8.54692 -3.2462,13.24386 -0.1651,16.03222 1.8784,1.69994 2.9408,1.87681 4.9178,0.81873 3.6210999,-1.93794 9.6205999,-1.66233 11.4361999,0.52537 1.8261,2.2003 -0.071,2.55403 -2.2125,0.41254 -1.8544,-1.85448 -10.5282999,0.7755 -13.5425999,4.10621 -2.8774,3.17953 -1.3083,8.14836 3.4959,11.06995 3.5116,2.13551 4.2839999,2.19985 7.3534999,0.61253 1.8864,-0.97551 3.6849,-2.48859 3.9966,-3.36244 0.3118,-0.87383 1.0021,-1.18371 1.534,-0.6886 0.5319,0.49511 -0.7942,2.44575 -2.9469,4.33475 l -3.9141,3.43454 2.8056,1.55847 c 3.5938,1.99638 7.52,2.05759 9.4305,0.14704 z m -11.3741,-37.5625 c 1.4089,-1.54688 3.2887,-4.21725 4.1773,-5.93417 0.9909,-1.91449 1.8219,-2.50313 2.1488,-1.52218 0.6336,1.90059 -5.4649,10.26885 -7.4835,10.26885 -0.7724,0 -0.2515,-1.26563 1.1574,-2.8125 z m 24.6903,37.61185 c 3.9807,-1.81371 3.9908,-2.73303 0.059,-5.3094 -1.7188,-1.12618 -3.125,-2.62574 -3.125,-3.33238 0,-0.70665 1.9673,0.21573 4.3717,2.0497 4.1705,3.18102 4.515,3.24068 7.482604,1.2962 1.711,-1.12106 4.0024,-3.39898 5.0921,-5.06206 2.7705,-4.22834 0.742,-7.43529 -6.437204,-10.17706 -4.7472,-1.81295 -6.2133,-1.92604 -8.2753,-0.6383 -2.0423,1.27544 -2.4051,1.25822 -1.961,-0.093 0.7513,-2.28614 6.7345,-2.79036 11.193604,-0.94335 5.0001,2.07111 7.6069,-0.50554 7.5115,-7.42449 -0.1134,-8.20977 -4.2323,-15.96561 -9.690204,-18.24605 -4.4727,-1.86882 -4.5693,-2.03631 -2.4957,-4.32762 3.8995,-4.30895 -1.3779,-10.09153997 -9.21,-10.09153997 l -3.8322,0 0,31.14583997 c 0,31.71455 0.07,32.2063 4.6287,32.50547 0.827,0.0542 2.9364,-0.5541 4.6875,-1.35196 z M 37.791614,23.475753 c -1.8405,-1.92107 -2.870496,-3.939813 -2.816196,-5.277203 0.072,-1.77235 0.2836,-1.92325 0.7809,-0.5566 0.3753,1.03125 2.549504,1.042736 4.304204,2.926186 1.7548,1.88345 2.477696,6.078984 2.133996,6.422734 -0.3438,0.34375 -2.562404,-1.594037 -4.402904,-3.515117 z"
+     id="path4142"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssscssscsccsscscccssccssccsscssscscssscscccsccccs"
+     clip-path="url(#clipPath3351)"
+     transform="translate(9.9246003,0.3403719)" />
+  <path
+     sodipodi:nodetypes="ssccssscs"
+     inkscape:connector-curvature="0"
+     id="path4142-3"
+     d="m -50.326332,48.666223 c 21.9535,-18.4265 27.128001,-31.55662 16.7183,-42.4219502 -6.4326,-6.71419948 -19.1477,-7.22595948 -24.7843,-0.99753 l -2.2849,2.52467 -2.7135,-2.54925 c -5.485,-5.15285948 -14.0959,-5.81080948 -22.1552,-1.69285 -7.9394,4.0567 -9.7288,17.3203702 -3.6117,26.7710702 5.2466,8.10579 24.5521,25.93393 28.278,26.11404 0.6875,0.0333 5.4365,-3.45345 10.5533,-7.7482 z"
+     style="fill:#000000"
+     clip-path="url(#clipPath3345)"
+     transform="matrix(1.1147119,0,0,1.1147119,103.85205,0.02787537)" />
+</svg>
