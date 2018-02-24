@@ -70,27 +70,16 @@ social-network-links:
   rss: false
   email: "fernando.andreotti@gmx.de"
   github: fernandoandreotti
-#  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
   linkedin: fernandoandreotti
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  googlescholar: rajtyxUAAAAJ
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
-  google: false
-  linkedin: true
+  google: true
+  linkedin: false
+  googlescholar: false
 
 # --- Web Statistics Section --- #
 

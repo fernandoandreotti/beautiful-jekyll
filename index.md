@@ -42,8 +42,8 @@ You can find an up-to-date list of my publications at [Publications]({{ site.bas
 ### Student Supervision
 I enjoy helping students solve their own research problems. All students were co-supervised alongside Prof. Maarten De Vos, Prof. Hagen Malberg or Dr. Sebastian Zaunseder. 
 
-'- Oliver Carr (current - DPhil thesis, 2018)
-'- Navin Cooray (current - DPhil thesis, 2018)
+[comment]: <> (- Oliver Carr (current - DPhil thesis, 2018))
+[comment]: <> (- Navin Cooray (current - DPhil thesis, 2018))
 - Miriam Gennat (Bachelor project, 2016)
 - Julius Hoffmann (Master thesis, 2016) 
 - Dominik Mehmel (Bachelor project, 2015)
