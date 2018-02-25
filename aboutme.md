@@ -4,11 +4,7 @@ title: About me
 subtitle: Biomedical Engineering, Machine Learning, Signal Processing
 ---
 
-### Bio
-
-I am a PhD in Biomedical Engineering with 7 years experience in signal processing and machine learning applied to cardiac and brain signals. I currently am a Postdoc at the [CIBIM-Lab](https://cibim.eng.ox.ac.uk/) at the Institute of Biomedical Engineering, University of Oxford. 
-
-In 2017, I obtained doctoral title in Electrical Engineering at the Institute of Biomedical Engineering at Technische Universität Dresden (Dresden, Germany). My thesis focused on signal processing for the extraction of the non-invasive fetal ECG from abdominal electrodes and assessing fetal heart-rate variability and morphology for new diagnostics in prenatal medicine. In 2011, I received my Engineer’s degree in Control and Automation Engineering from the Universidade Federal de Minas Gerais (Belo Horizonte, Brazil). 
+## Research
  
 My research interests include:
 
