@@ -8,7 +8,7 @@ use-site-title: true
 ### News
 
 - New website. After a long while I decided to move away from WordPress and make this static page.
-- CIBIM lab website is up and running under (https://cibim.eng.ox.ac.uk/)
+- CIBIM lab [website](https://cibim.eng.ox.ac.uk/) is up and running
 
 ### Short Bio
 
