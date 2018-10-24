@@ -40,20 +40,20 @@ You can find an up-to-date list of my publications at [Publications]({{ site.bas
 ### Student Supervision
 I enjoy helping students solve their own research problems. All students were co-supervised alongside Prof. Maarten De Vos, Prof. Hagen Malberg or Dr. Sebastian Zaunseder. 
 
-- Oliver Carr (current - DPhil thesis, 2018)
-- Navin Cooray (current - DPhil thesis, 2018)
-- John Prince (DPhil thesis, 2018)
-- Miriam Gennat (Bachelor project, 2016)
-- Julius Hoffmann (Master thesis, 2016) 
-- Dominik Mehmel (Bachelor project, 2015)
-- Anna T. Stumpf (Bachelor project, 2015)
-- Ahmed Mennane (Master thesis, 2015)
-- Jingrui Yu (Bachelor project, 2015)
-- Michael Kierstein (Bachelor project, 2014)
-- Philipp Herrmann (Master thesis, 2014)
-- Tilo Himmelsbach (Bachelor project, 2013)
-- Benjamin Stolze (Master thesis, 2013)
-- Enrico Grunitz (Master thesis, 2012)
+- O. Carr (current - DPhil thesis, 2018)
+- N. Cooray (current - DPhil thesis, 2018)
+- J. Prince (DPhil thesis, 2018)
+- M. Gennat (Bachelor project, 2016)
+- J. Hoffmann (Master thesis, 2016) 
+- D. Mehmel (Bachelor project, 2015)
+- A. Stumpf (Bachelor project, 2015)
+- A. Mennane (Master thesis, 2015)
+- J. Yu (Bachelor project, 2015)
+- M. Kierstein (Bachelor project, 2014)
+- P. Herrmann (Master thesis, 2014)
+- T. Himmelsbach (Bachelor project, 2013)
+- B. Stolze (Master thesis, 2013)
+- E. Grunitz (Master thesis, 2012)
 
 ### Teaching
 - 2018 Laboratory Demonstrator for Web programming, University of Oxford
