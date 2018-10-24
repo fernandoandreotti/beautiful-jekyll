@@ -23,12 +23,13 @@ navbar-links:
   Projects:
     - Fetal ECG: "fetalecg"
     - Arrhythmia Detection: "challenge2017"
-    - Sleep: "sleep"
+    - Sleep Analysis: "sleep"
+    - Classifying Parkinson's: "parkinsons"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/fernando.png"
+#avatar: "/img/fernando.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
