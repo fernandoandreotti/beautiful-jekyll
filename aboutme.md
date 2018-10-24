@@ -8,16 +8,21 @@ subtitle: Biomedical Engineering, Machine Learning, Signal Processing
  
 My research interests include:
 
-- application of machine (deep) learning and signal processing techniques
-- filtering noisy data (Kalman filters, blind source separation, etc)
+- applying machine (deep) learning to healthcare applications
 - modelling/simulation of cardiac activity
+- filtering noisy data (Kalman filters, blind source separation, etc)
 - design and implementation of clinical trials
-- statistical data analysis
-- evolutionary computing
+- statistical analysis of data
 
 ### Publications
 
 You can find an up-to-date list of my publications at [Publications]({{ site.baseurl }}/pubs/).
+
+
+### Education
+
+- 2017 Doctoral degree in Electrical Engineering, Technische Universitat Dresden, Germany
+- 2011 Bachelor's degree in Automation and Control Engineering, Universidade Federal de Minas Gerais, Brazil
 
 ### Awards and Scholarships
 
@@ -35,8 +40,9 @@ You can find an up-to-date list of my publications at [Publications]({{ site.bas
 ### Student Supervision
 I enjoy helping students solve their own research problems. All students were co-supervised alongside Prof. Maarten De Vos, Prof. Hagen Malberg or Dr. Sebastian Zaunseder. 
 
-[comment]: <> (- Oliver Carr (current - DPhil thesis, 2018))
-[comment]: <> (- Navin Cooray (current - DPhil thesis, 2018))
+- Oliver Carr (current - DPhil thesis, 2018)
+- Navin Cooray (current - DPhil thesis, 2018)
+- John Prince (DPhil thesis, 2018)
 - Miriam Gennat (Bachelor project, 2016)
 - Julius Hoffmann (Master thesis, 2016) 
 - Dominik Mehmel (Bachelor project, 2015)
@@ -50,6 +56,6 @@ I enjoy helping students solve their own research problems. All students were co
 - Enrico Grunitz (Master thesis, 2012)
 
 ### Teaching
-
+- 2018 Laboratory Demonstrator for Web programming, University of Oxford
 - 2018 Senior Laboratory Demonstrator for Medical Instrumentation (B18), University of Oxford
 - 2017 Laboratory Demonstrator for Medical Instrumentation (B18), University of Oxford
